@@ -1,0 +1,14 @@
+{
+  "name": "1-hello_world",
+  "version": "1.0.0",
+  "description": "Master Express.js and have fun!\r ─────────────────────────────────\r HELLO WORLD!\r Exercise 1 of 8",
+  "main": "program.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Victor Perin",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
